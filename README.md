@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jai-sharma-03&label=Profile%20views&color=0e75b6&style=flat" alt="jai-sharma-03" /> </p>
 
 <h3 align="left">Connect with me:</h3>
